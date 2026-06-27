@@ -1,2 +1,4 @@
 # turbo-fishstick
-A generic repo since I haven't chosen a project yet
+
+After chore 14, we prep for deployment
+with this version
